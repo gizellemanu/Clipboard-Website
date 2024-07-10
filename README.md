@@ -1,6 +1,6 @@
 <img align="right" height="30" width="40" src="https://www.svgrepo.com/show/508668/flag-us.svg" alt="English">
 
-# Clipboard Website [<img height="60" width="70" src="https://www.svgrepo.com/show/293033/click.svg">](https://classy-peony-6686a3.netlify.app/)
+# Clipboard Website [<img height="60" width="70" src="https://www.svgrepo.com/show/293033/click.svg">](https://websiteclipboard.netlify.app/)
 
 This repository contains the source code for a website developed using HTML and Tailwind CSS. The website is a prototype for the Clipboard app, which allows users to track and organize everything they copy.
 
@@ -103,7 +103,7 @@ To view the website locally, you can use Visual Studio Code with the GoLive exte
 <hr>
 <img align="right" height="30" width="40" src="https://www.svgrepo.com/show/405433/flag-for-flag-brazil.svg" alt="Portugues">
 
-# Clipboard Website [<img height="60" width="70" src="https://www.svgrepo.com/show/293033/click.svg">](https://classy-peony-6686a3.netlify.app/)
+# Clipboard Website [<img height="60" width="70" src="https://www.svgrepo.com/show/293033/click.svg">](https://websiteclipboard.netlify.app/)
 
 Este repositório contém o código-fonte de um site desenvolvido em HTML e Tailwind CSS. O site é um protótipo do aplicativo Clipboard, que permite aos usuários rastrear e organizar tudo o que copiam.
 
